@@ -1,7 +1,7 @@
 
 # JavaScript Programming, MAP
 
-A dynamic and interactive web application developed as part of the Software Engineering program at Western Governors University. This project demonstrates core JavaScript programming concepts, DOM manipulation, and modern front-end functionality.
+A dynamic and interactive web application. This project demonstrates core JavaScript programming concepts, DOM manipulation, and modern front-end functionality.
 
 ## Features
 
